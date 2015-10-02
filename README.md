@@ -1,1 +1,1 @@
-# Joulukalenteri_Sudoku
+# Joulukalenteri: Sudoku
